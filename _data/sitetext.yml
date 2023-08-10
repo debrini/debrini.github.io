@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Hi, my name is Debrini!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#aboutme"
 
-  services:
-    title: "Services"
+  aboutme:
+    title: "About Me"
     text: "Lorem ipsum"
-    section: services
+    section: aboutme
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -175,7 +175,7 @@ es: &DEFAULT_ES
     button: Ver más
     buttonlink: "#servicios"
 
-  services:
+  aboutme:
     title: "Servicios"
     text: "Lorem ipsum"
     section: servicios
