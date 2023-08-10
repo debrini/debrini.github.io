@@ -18,18 +18,18 @@ en: &DEFAULT_EN
 
   services:
     title: "About Me"
-    text: "Lorem ipsum"
+    text: "A peek into my life"
     section: services
     list:
       - title: "Education"
-        desc: "I'm currently a senior at the University of Michigan studying computer engineering with a minor in statistics"
+        desc: "I'm currently a senior at the University of Michigan studying computer engineering with a minor in statistics."
         icon: fas fa-school #find more at https://fontawesome.com/icons
       - title: "Interests"
-        desc: "I have several interests I'd love to explore professionally, including (but not limited to) fintech, autonomous technology, and embedded software."
-        icon: fas fa-computer
+        desc: "I have several interests which I'd love to explore professionally, including (but not limited to) fintech, autonomous technology, and embedded software."
+        icon: fas fa-display
       - title: "Hobbies"
-        desc: "Outside of school, I enjoy drawing still life, choreographing dances, and trying to (emphasis on *trying*) cook new recipes"
-        icon: fab fa-paintbrush
+        desc: "Outside of school, I enjoy drawing still life, choreographing dances, and trying to (emphasis on *trying*) cook new recipes!"
+        icon: fas fa-paintbrush
 
   portfolio:
     title: "Portfolio"
