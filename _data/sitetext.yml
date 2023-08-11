@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "About Me"
-    text: ""
+    text: "a"
     section: services
     list:
       - title: "Education"
@@ -33,13 +33,13 @@ en: &DEFAULT_EN
 
 portfolio:
     title: "Portfolio"
-    text: ""
+    text: "a"
     section: portfolio
     closebutton: "Close"
 
   timeline:
     title: "Experience"
-    text: ""
+    text: "a"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -71,7 +71,7 @@ portfolio:
         alt:
         # you can enforce the alignment
         align: right
-    end: ""
+    end: "?"
 
   # about:
   #   title: "About Me"
