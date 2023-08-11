@@ -31,6 +31,12 @@ en: &DEFAULT_EN
         desc: "Outside of school, I enjoy drawing still life, choreographing dances, and trying to cook new recipes!"
         icon: fas fa-palette
 
+portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Window"
+
   timeline:
     title: "Experience"
     text: "Lorem ipsum timeline"
@@ -61,12 +67,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
-
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Window"
 
   # about:
   #   title: "About Me"
@@ -129,20 +129,20 @@ en: &DEFAULT_EN
   #         - url: https://linkedin.com
   #           icon: fab fa-linkedin-in
 
-  contact:
-    title: "Contact Me"
-    text: "Let's get in touch!"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+  # contact:
+  #   title: "Contact Me"
+  #   text: "Let's get in touch!"
+  #   section: contact
+  #   name: "Name*"
+  #   name-validation: "Please enter your name."
+  #   email: "Email*"
+  #   email-validation: "Please enter your email address."
+  #   phone: "Phone Number"
+  #   phone-validation: "Please enter your phone number."
+  #   message: "Message*"
+  #   message-validation: "Please enter a message."
+  #   subject: "Contact Form Submission"
+  #   submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
@@ -151,8 +151,8 @@ en: &DEFAULT_EN
       #   icon: "fab fa-twitter"
       # - url: https://facebook.com
       #   icon: "fab fa-facebook-f"
-      - url: debrini@umich.edu
-        icon: "fab fa-envelope"
+      - url: <debrini@umich.edu>
+        icon: "fas fa-envelope"
       - url: https://linkedin.com/in/debrini
         icon: "fab fa-linkedin-in"
       - url: https://github.com/debrini

@@ -13,18 +13,18 @@ en: &DEFAULT_EN
   nav:
     - title: "About Me"
       section: services
-    - title: "Experience"
-      section: timeline
     - title: "Portfolio"
       section: portfolio
+    - title: "Experience"
+      section: timeline
     # - title: "About"
     #   section: about
     # - title: "Team"
     #   section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    # - title: "Contact"
+    #   section: contact
+    # - title: "Theme Source"
+    #   url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
