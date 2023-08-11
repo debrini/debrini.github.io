@@ -25,10 +25,10 @@ en: &DEFAULT_EN
         desc: "I'm currently a senior at the University of Michigan studying computer engineering with a minor in statistics."
         icon: fas fa-school #find more at https://fontawesome.com/icons
       - title: "Interests"
-        desc: "I have several interests which I'd love to explore professionally, including (but not limited to) fintech, autonomous technology, and embedded software."
-        icon: fas fa-display
+        desc: "I have several interests which I'd love to explore professionally, including fintech, autonomous technology, and embedded software."
+        icon: fas fa-laptop
       - title: "Hobbies"
-        desc: "Outside of school, I enjoy drawing still life, choreographing dances, and trying to (emphasis on *trying*) cook new recipes!"
+        desc: "Outside of school, I enjoy drawing still life, choreographing dances, and trying to cook new recipes!"
         icon: fas fa-paintbrush
 
   portfolio:
