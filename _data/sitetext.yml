@@ -151,7 +151,7 @@ en: &DEFAULT_EN
       #   icon: "fab fa-twitter"
       # - url: https://facebook.com
       #   icon: "fab fa-facebook-f"
-      - url: <"mailto:{{ site.email }}">
+      - url: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
         icon: "fas fa-envelope"
       - url: https://linkedin.com/in/debrini
         icon: "fab fa-linkedin-in"
