@@ -52,7 +52,7 @@ en: &DEFAULT_EN
       - title: "An Agency is Born"
         year: "March 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/Michigan_logo.jpg
+        image: assets/img/timeline/UM_logo.png
         alt:
       - title: "Jekyll Theme is created"
         year: "2019"
@@ -95,7 +95,7 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
           - url: https://www.linkedin.com/company/girls-in-electrical-engineering-and-computer-science
             icon: fab fa-linkedin-in
-      - name: "Michigan Sahana: <br> Indian Classical Music & Dance"
+      - name: "Michigan Sahana: <br> Indian Classical <br> Music & Dance"
         role: "Logistics Chair <br> Jan. 2022 - Dec. 2022"
         image: assets/img/team/sahanalogo.png
         social:
