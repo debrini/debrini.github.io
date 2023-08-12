@@ -44,29 +44,29 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Silicon Labs"
+        year: "May 2021 - Jul. 2021"
+        desc: "**Applications Engineering Intern** *(Austin, TX)* <br> "
         image: assets/img/timeline/SiliconLabs_logo.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Univ. of Michigan <br> ENGR 100: Intro to Engineering - Music Signal Processing"
+        year: "Jan. 2022 - Apr. 2022"
+        desc: "**Instructional Assistant** *(Ann Arbor, MI)* <br> "
         image: assets/img/timeline/UofM_logo.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Univ. of Michigan <br> Signal Processing Algorithm Design and Analysis (SPADA) Lab"
+        year: "Jan. 2022 - Apr. 2022"
+        desc: "**REU Research Assistant** *(Ann Arbor, MI)* <br> "
         image: assets/img/timeline/SPADA_logo.png
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Expedia Group"
+        year: "May 2022 - Jul. 2022"
+        desc: "**Software Development Engineer Intern** *(Seattle, WA)* <br> "
         image: assets/img/timeline/Expedia_logo.png
         alt:
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Expedia Group"
+        year: "May 2023 - Jul. 2023"
+        desc: "**Software Development Engineer Intern** *(Seattle, WA)* <br> • Increased profits by $190k by implementing messages tab within notifications menu on Expedia website <br> •	Communicated with Product and UX teams to navigate ambiguity and prioritize higher customer retention rate <br> •	Integrated component vertically, using Kotlin and gRPC for back-end and React and JavaScript for front-end"
         image: assets/img/timeline/Expedia_logo.png
         alt:
         # you can enforce the alignment
