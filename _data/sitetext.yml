@@ -70,7 +70,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/Expedia_logo.png
         alt:
         # you can enforce the alignment
-        align: right
+        # align: right
     end: "Be Part <br> of My <br> Story!"
 
   about:
