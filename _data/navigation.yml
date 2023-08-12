@@ -15,12 +15,12 @@ en: &DEFAULT_EN
       section: services
     - title: "Portfolio"
       section: portfolio
+    - title: "Skills"
+      section: about
     - title: "Experience"
       section: timeline
-    - title: "About"
-      section: about
-    # - title: "Team"
-    #   section: team
+    - title: "Leadership"
+      section: team
     - title: "Contact"
       section: contact
     - title: "Theme Source"
