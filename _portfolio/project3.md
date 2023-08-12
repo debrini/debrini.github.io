@@ -6,7 +6,7 @@ alt:
 
 caption:
   title: Smart Backpack
-  subtitle: C
+  subtitle: C, Verilog
   thumbnail: assets/img/portfolio/backpack1_1.jpg
 ---
 •	Embedded RFID tags, RFID reader, and GPS to track backpack contents as they are put into and taken out of backpack <br> 
