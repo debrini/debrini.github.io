@@ -1,13 +1,13 @@
 ---
 title: Blind Spot Detector
 subtitle: 
-image: assets/img/portfolio/blindspot.jpg
+image: assets/img/portfolio/blindspot.JPG
 alt: 
 
 caption:
   title: Blind Spot Detector
   subtitle: C
-  thumbnail: assets/img/portfolio/blindspot.jpg
+  thumbnail: assets/img/portfolio/blindspot.JPG
 ---
 •	Developed solar-powered post-factory blind spot detector to warn drivers when neighboring cars are within 15 feet <br> 
 •	Designed and soldered PCBs for ultrasonic sensing units on side-view mirrors and LCD screen unit on dashboard
