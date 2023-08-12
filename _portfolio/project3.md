@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Smart Backpack
+subtitle: 
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Smart Backpack
+  subtitle: C
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+•	Embedded RFID tags, RFID reader, and GPS to track backpack contents as they are put into and taken out of backpack
+•	Prioritized usability by expanding capabilities of LCD screen on backpack via SPI and 8-bit parallel wiring
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
-
+- When: Feb. 2022 - Apr. 2022
+- Why: EECS 373 Embedded Systems
+- Who: Worked with 3 other students

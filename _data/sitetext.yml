@@ -49,12 +49,12 @@ en: &DEFAULT_EN
         desc: "**Applications Engineering Intern** *(Austin, TX)* <br> Converted 46 C# files into C++ for decoding album art and station logos coming through DAB radio signals. <br> Renovated C++ code to take in live radio input and contributed to official sample code and documentation."
         image: assets/img/timeline/SiliconLabs_logo.jpg
         alt:
-      - title: "Univ. of Michigan <br> ENGR 100: Intro to Engineering - Music Signal Processing"
+      - title: "Univ. of Michigan: <br> ENGR 100 Intro to Engineering - Music Signal Processing"
         year: "Jan. 2022 - Apr. 2022"
         desc: "**Instructional Assistant** *(Ann Arbor, MI)* <br> Taught engineering process and signal processing concepts in Julia during lab to 20 students weekly. <br> Collaborated for lab assignment development and testing to create unique and impactful instructional lessons."
         image: assets/img/timeline/UofM_logo.jpg
         alt:
-      - title: "Univ. of Michigan <br> Signal Processing Algorithm Design and Analysis (SPADA) Lab"
+      - title: "Univ. of Michigan: <br> Signal Processing Algorithm Design and Analysis (SPADA) Lab"
         year: "Jan. 2022 - Apr. 2022"
         desc: "**REU Research Assistant** *(Ann Arbor, MI)* <br> Optimized PCA and t-SNE parameters to maximize clustering accuracy in Python under Professor Laura Balzano. <br> Investigated combining dimensionality reduction techniques, sketch-oriented learning (linear) and t-SNE (non-linear)."
         image: assets/img/timeline/SPADA_logo.png

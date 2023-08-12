@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Sign Language Classifier
+subtitle: 
 image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+alt: 
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Sign Language Classifier
+  subtitle: Python
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+•	Implemented neural network using PyTorch to classify sign language alphabet, trained with 87,000 images
+•	Tuned hyperparameters to maximize precision when measured against test set to achieve 88% accuracy
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+- When: Mar. 2022 - Apr. 2022
+- Why: EECS 442 Computer Vision
+- Who: Worked with 3 other students

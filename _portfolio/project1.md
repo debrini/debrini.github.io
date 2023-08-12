@@ -1,18 +1,19 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Blind Spot Detector
+subtitle: 
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: 
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Blind Spot Detector
+  subtitle: C
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+•	Developed solar-powered post-factory blind spot detector to warn drivers when neighboring cars are within 15 feet
+•	Designed and soldered PCBs for ultrasonic sensing units on side-view mirrors and LCD screen unit on dashboard
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- When: Sep. 2022 - Dec. 2022
+- Why: EECS 473 Advanced Embedded Systems
+- Who: Worked with 3 other students
 
