@@ -71,7 +71,8 @@ en: &DEFAULT_EN
   about:
     title: "Skills"
     text: ""
-    body: ""
+    body: "**Computer Languages**: C++, Python, C, Java, Kotlin, R, JavaScript, MATLAB, C#, Julia, Verilog, Solidity, SQL <br> **Computer Applications**: GitHub, OpenCV, Linux, React, Splunk, Datadog, Jira, gRPC, Karate, AWS, Microsoft Azure/SQL Server
+"
     section: about
 
   team:
@@ -83,23 +84,23 @@ en: &DEFAULT_EN
       - name: "Girls in Electrical Engineering and Computer Science (GEECS)"
         role: "President <br> Jan. 2023 - Dec. 2023"
         image: assets/img/team/GonB.png
-        # social:
-        #   - url: https://geecsumich.com
-        #     icon: fas fa-link
-          # - url: https://facebook.com
-          #   icon: fab fa-facebook-f
-          # - url: https://linkedin.com
-          #   icon: fab fa-linkedin-in
+        social:
+          - url: https://geecsumich.com
+            icon: fas fa-link
+          - url: https://www.instagram.com/geecs_umich/
+            icon: fab fa-instagram
+          - url: https://www.linkedin.com/company/girls-in-electrical-engineering-and-computer-science
+            icon: fab fa-linkedin-in
       - name: "Michigan Sahana: Indian Classical Music & Dance"
         role: "Logistics Chair <br> Jan. 2022 - Dec. 2022"
         image: assets/img/team/sahanalogo.png
-        # social:
-        #   - url: https://michigansahana.com
-        #     icon: fas fa-link
-          # - url: https://facebook.com
-          #   icon: fab fa-facebook-f
-          # - url: https://linkedin.com
-          #   icon: fab fa-linkedin-in
+        social:
+          - url: https://michigansahana.com
+            icon: fas fa-link
+          - url: https://www.instagram.com/michigansahana/
+            icon: fab fa-instagram
+          - url: https://www.youtube.com/@michigansahana
+            icon: fab fa-youtube
       # - name: "Diana Perterson"
       #   role: "Lead Developer"
       #   image: assets/img/team/500x500.jpg
