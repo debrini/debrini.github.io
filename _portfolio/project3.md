@@ -1,15 +1,15 @@
 ---
 title: Smart Backpack
 subtitle: 
-image: assets/img/portfolio/03-full.jpg
+image: assets/img/portfolio/backpack1.jpg
 alt: 
 
 caption:
   title: Smart Backpack
   subtitle: C
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/backpack1.jpg
 ---
-•	Embedded RFID tags, RFID reader, and GPS to track backpack contents as they are put into and taken out of backpack
+•	Embedded RFID tags, RFID reader, and GPS to track backpack contents as they are put into and taken out of backpack <br> 
 •	Prioritized usability by expanding capabilities of LCD screen on backpack via SPI and 8-bit parallel wiring
 
 {:.list-inline}

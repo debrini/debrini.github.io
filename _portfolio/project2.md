@@ -1,15 +1,15 @@
 ---
 title: Sign Language Classifier
 subtitle: 
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/asl.jpg
 alt: 
 
 caption:
   title: Sign Language Classifier
   subtitle: Python
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/portfolio/asl.jpg
 ---
-•	Implemented neural network using PyTorch to classify sign language alphabet, trained with 87,000 images
+•	Implemented neural network using PyTorch to classify sign language alphabet, trained with 87,000 images <br> 
 •	Tuned hyperparameters to maximize precision when measured against test set to achieve 88% accuracy
 
 {:.list-inline}
