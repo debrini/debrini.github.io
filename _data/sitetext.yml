@@ -116,18 +116,18 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "no" #"yes/no"
     list:
+      - title: ""
+        url: 
+        logo:
       - title: "GEECS"
         url: https://geecsumich.com
         logo: assets/img/clients/WordsBlue.png
       - title: "Michigan Sahana"
         url: https://michigansahana.com
         logo: assets/img/clients/sahana.jpg
-  #     - title: "themeforest"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/themeforest.jpg
-  #     - title: "Creative Market"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/creative-market.jpg
+      - title: ""
+        url: 
+        logo: 
 
   contact:
     title: "Contact Me"
