@@ -52,7 +52,7 @@ en: &DEFAULT_EN
       - title: "An Agency is Born"
         year: "March 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/UofM_logo.png
+        image: assets/img/timeline/UofM_logo.jpg
         alt:
       - title: "Jekyll Theme is created"
         year: "2019"
