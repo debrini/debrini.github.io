@@ -83,19 +83,19 @@ en: &DEFAULT_EN
       - name: "Girls in Electrical Engineering and Computer Science (GEECS)"
         role: "President <br> Jan. 2023 - Dec. 2023"
         image: assets/img/team/GonB.png
-        social:
-          - url: https://geecsumich.com
-            icon: fas fa-link
+        # social:
+        #   - url: https://geecsumich.com
+        #     icon: fas fa-link
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
           # - url: https://linkedin.com
           #   icon: fab fa-linkedin-in
-      - name: "Michigan Sahana"
+      - name: "Michigan Sahana: Indian Classical Music & Dance"
         role: "Logistics Chair <br> Jan. 2022 - Dec. 2022"
         image: assets/img/team/sahanalogo.png
-        social:
-          - url: https://michigansahana.com
-            icon: fas fa-link
+        # social:
+        #   - url: https://michigansahana.com
+        #     icon: fas fa-link
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
           # - url: https://linkedin.com
