@@ -74,24 +74,6 @@ en: &DEFAULT_EN
     body: ""
     section: about
 
-  # clients:
-  #   section: clients
-  #   max-height: 100px
-  #   horizontal-scrolling: "" #"yes/no"
-  #   list:
-  #     - title: "envato"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/envato.jpg
-  #     - title: "designmodo"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/designmodo.jpg
-  #     - title: "themeforest"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/themeforest.jpg
-  #     - title: "Creative Market"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/creative-market.jpg
-
   team:
     title: "Leadership"
     text: ""
@@ -128,6 +110,24 @@ en: &DEFAULT_EN
       #       icon: fab fa-facebook-f
       #     - url: https://linkedin.com
       #       icon: fab fa-linkedin-in
+
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "no" #"yes/no"
+    list:
+      - title: "GEECS"
+        url: https://geecsumich.com
+        logo: assets/img/clients/WordsBlue.png
+      - title: "Michigan Sahana"
+        url: https://michigansahana.com
+        logo: assets/img/clients/sahana.jpg
+  #     - title: "themeforest"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/creative-market.jpg
 
   contact:
     title: "Contact Me"
