@@ -136,7 +136,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me"
-    text: "Let's get in touch! My email: debrini@umich.edu"
+    text: "Let's get in touch! My email: debrini@outlook.com"
     section: contact
     name: "Name *"
     name-validation: "Please enter your name."
@@ -144,7 +144,7 @@ en: &DEFAULT_EN
     email-validation: "Please enter your email address."
     phone: "Phone Number *"
     phone-validation: "Please enter your phone number."
-    message: "Message * Note: If unable to send a message through here, please email me at debrini@outlook.edu"
+    message: "Message * Note: If unable to send a message through here, please email me at debrini@outlook.com"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
     submit: "Send Message"
