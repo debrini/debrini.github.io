@@ -66,25 +66,25 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be Part <br> of My <br> Story!"
 
   about:
-    title: "About Me"
-    text: "our story"
-    body: "hi!"
+    title: ""
+    text: ""
+    body: ""
     section: about
 
   clients:
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
-    # list:
-      # - title: "envato"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/envato.jpg
-      # - title: "designmodo"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/designmodo.jpg
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
       # - title: "themeforest"
       #   url: https://github.com/raviriley/agency-jekyll-theme
       #   logo: assets/img/clients/themeforest.jpg
