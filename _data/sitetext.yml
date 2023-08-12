@@ -68,11 +68,11 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  # about:
-  #   title: "About Me"
-  #   text: "our story"
-  #   body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-  #   section: about
+  about:
+    title: "About Me"
+    text: "our story"
+    body: "hi!"
+    section: about
 
   clients:
     section: clients
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me"
-    text: "Let's get in touch! My email: {{ site.email }}"
+    text: "Let's get in touch! My email: debrini@umich.edu"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
